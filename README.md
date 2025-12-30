@@ -1,4 +1,3 @@
 # Project
 
 Generated commit history.
- 
